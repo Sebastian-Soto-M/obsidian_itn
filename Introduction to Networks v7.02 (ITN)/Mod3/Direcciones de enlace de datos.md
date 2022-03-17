@@ -1,5 +1,5 @@
 ## Direcciones de enlace de datos
-La dirección física de la [[Capa de Enlace de datos]], o capa 2, tiene una función distinta.
+La dirección física de la [[Capa de enlace de datos]], o capa 2, tiene una función distinta.
 
 Su **propósito** es **enviar la [[Trama de Red|Trama]]** de enlace de datos desde una interfaz de red hasta otra interfaz de red en la misma red.
 

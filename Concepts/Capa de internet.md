@@ -1,5 +1,5 @@
 ---
-tag: concept
+tag: concept/itn
 up: [[Internet Protocol Suite]]
 ---
 ### Capa de internet

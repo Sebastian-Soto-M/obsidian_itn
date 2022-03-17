@@ -1,4 +1,4 @@
-## Función de las direcciones de la [[Capa de Enlace de datos]]: la misma red [[Internet Protocol|IP]]
+## Función de las direcciones de la [[Capa de enlace de datos]]: la misma red [[Internet Protocol|IP]]
 
 Cuando el **emisor y el receptor** del paquete [[Internet Protocol|IP]] están **en la misma red**, la **[[Trama de Red|Trama]]** de enlace de datos **se envía directamente al dispositivo receptor**.
 

@@ -10,7 +10,7 @@ Mientras las capas del modelo [[Internet Protocol Suite|TCP/IP]] se mencionan so
 ```
 
 1. ![[Capa Física]]
-2. ![[Capa de Enlace de datos]]
+2. ![[Capa de enlace de datos]]
 3. ![[Capa de red]]
 4. ### Capa de transporte ![[Capa de transporte#^capatransporteosi]]
 5. ![[Capa de sesión]]

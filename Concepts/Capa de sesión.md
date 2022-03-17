@@ -1,5 +1,6 @@
 ---
 tags: concept/itn
+alias: "capa 5"
 links: [[Protocolos de interconexión de sistemas abiertos|OSI]]
 ---
 

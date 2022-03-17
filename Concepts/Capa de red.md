@@ -1,5 +1,6 @@
 ---
 tags: concept/itn
+alias: "capa 3"
 links: [[Protocolos de interconexión de sistemas abiertos|OSI]]
 ---
 

@@ -22,4 +22,4 @@ Como se muestra en la figura, hay dos modelos en capas que se utilizan para desc
 1. Modelo de referencia de interconexión de sistemas abiertos [[Protocolos de interconexión de sistemas abiertos|sistemas abiertos]]. ([[El modelo de referencia Protocolos de interconexión de sistemas abiertosOSI|Modelo]])
 2. Modelo de referencia [[Internet Protocol Suite|TCP/IP]].
 
-![[modelos de referencia.png]]
+![[osi_vs_tcpip.png]]

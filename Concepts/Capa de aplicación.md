@@ -1,5 +1,6 @@
 ---
 up: ["Internet Protocol Suite", "El modelo de referencia Protocolos de interconexión de sistemas abiertosOSI"]
+alias: "capa 7"
 tags: concept/itn
 ---
 
