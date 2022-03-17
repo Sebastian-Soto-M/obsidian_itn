@@ -1,6 +1,6 @@
 ---
 aliases: ["LLC", "Control de enlace lógico"]
-tags: concept
+tags: concept/itn
 ---
 
 # Logical Link Control
