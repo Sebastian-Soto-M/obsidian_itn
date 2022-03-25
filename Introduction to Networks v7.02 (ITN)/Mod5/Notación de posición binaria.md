@@ -1,4 +1,4 @@
-## Notación de posición binaria
+# Notación de posición Binaria
 
 Para aprender a convertir de sistema binario a decimal, es necesario entender la notación de posición. El término "notación de posición" significa que un dígito representa diferentes valores según la "posición" que el dígito ocupa en la secuencia de números. Ya conoce el sistema de numeración más común, el sistema de notación decimal (de base 10).
 
@@ -10,19 +10,19 @@ Radix 10101010 Posición en el número 3210 Calcular (103) (102) (101) (100) Pos
 | -------------------- | ----- | ----- | ----- | ----- |
 | Posición en número   | 3     | 2     | 1     | 0     |
 | Cálculo              | (103) | (102) | (101) | (100) |
-| Valor de la posición | 1000  | 100   | 10    | 1     | 
+| Valor de la posición | 1000  | 100   | 10    | 1     |
 
 Las viñetas siguientes describen cada fila de la tabla.
 
--   Fila 1, Radix es la base numérica. La notación decimal se basa en 10, por lo tanto, la raíz es 10.
--   Fila 2, Posición en número considera la posición del número decimal que comienza con, de derecha a izquierda, 0 (1ª posición), 1 (2ª posición), 2 (3ª posición), 3 (4ª posición). Estos números también representan el valor exponencial utilizado para calcular el valor posicional en la cuarta fila.
--   Fila 3 calcula el valor posicional tomando la raíz y elevándola por el valor exponencial de su posición en la fila 2.   
-    **Nota:** n0 es = 1.
--   El valor posicional de la fila 4 representa unidades de miles, cientos, decenas y unos.
+- Fila 1, Radix es la base numérica. La notación decimal se basa en 10, por lo tanto, la raíz es 10.
+- Fila 2, Posición en número considera la posición del número decimal que comienza con, de derecha a izquierda, 0 (1ª posición), 1 (2ª posición), 2 (3ª posición), 3 (4ª posición). Estos números también representan el valor exponencial utilizado para calcular el valor posicional en la cuarta fila.
+- Fila 3 calcula el valor posicional tomando la raíz y elevándola por el valor exponencial de su posición en la fila 2.
+	**Nota:** n0 es = 1.
+- El valor posicional de la fila 4 representa unidades de miles, cientos, decenas y unos.
 
 Para usar el sistema de posición, una un número dado con su valor de posición. El ejemplo en la tabla ilustra cómo se usa la notación posicional con el número decimal 1234.
 
-Miles Cientos Decenas Unos Valor posicional 1000100101 Número decimal (1234) 1234 Calcular1 x 10002 x 1003 x 104 x 1Añadirlos... 1000+ 200+ 30+ 4 Resultado1,234
+Miles Cientos Decenas Unos Valor posicional 1000100101 Número decimal (1234) 1234 Calcular1 x 10002 x 1003 x 104 x 1Añadirlos… 1000+ 200+ 30+ 4 Resultado1,234
 
 |                       | Millares | Centenas | Decenas | Unidades |
 | --------------------- | -------- | -------- | ------- | -------- |
@@ -30,7 +30,6 @@ Miles Cientos Decenas Unos Valor posicional 1000100101 Número decimal (1234) 12
 | Número decimal (1234) | 1        | 2        | 3       | 4        |
 | Cálculo               | 1 x 1000 | 2 x 100  | 3 x 10  | 4 x 1    |
 | Add them up…          | 1000     | + 200    | + 30    | + 4      |
-
 
 **Resultado**
 
@@ -48,11 +47,11 @@ Radix 22222222 Posición en Número76543210Calcular (27) (26) (25) (24) (23) (22
 
 Las viñetas siguientes describen cada fila de la tabla.
 
--   Fila 1, Radix es la base numérica. La notación binaria se basa en 2, por lo tanto, el radix es 2.
--   Fila 2, Posición en número considera la posición del número binario que comienza con, de derecha a izquierda, 0 (1ª posición), 1 (2ª posición), 2 (3ª posición), 3 (4ª posición). Estos números también representan el valor exponencial utilizado para calcular el valor posicional en la cuarta fila.
--   Fila 3 calcula el valor posicional tomando la raíz y elevándola por el valor exponencial de su posición en la fila 2.   
-    **Nota:** n0 es = 1.
--   El valor posicional de la fila 4 representa unidades de uno, dos, cuatro, ocho, etc.
+- Fila 1, Radix es la base numérica. La notación binaria se basa en 2, por lo tanto, el radix es 2.
+- Fila 2, Posición en número considera la posición del número binario que comienza con, de derecha a izquierda, 0 (1ª posición), 1 (2ª posición), 2 (3ª posición), 3 (4ª posición). Estos números también representan el valor exponencial utilizado para calcular el valor posicional en la cuarta fila.
+- Fila 3 calcula el valor posicional tomando la raíz y elevándola por el valor exponencial de su posición en la fila 2.
+	**Nota:** n0 es = 1.
+- El valor posicional de la fila 4 representa unidades de uno, dos, cuatro, ocho, etc.
 
 El ejemplo en la tabla ilustra cómo un número binario 11000000 corresponde al número 192. Si el número binario fuera 10101000, el número decimal correspondiente sería 168.
 

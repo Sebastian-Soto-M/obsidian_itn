@@ -2,6 +2,7 @@
 tags: concept/itn
 ---
 # Ethernet
+
 ```ad-note
 title: Características
 

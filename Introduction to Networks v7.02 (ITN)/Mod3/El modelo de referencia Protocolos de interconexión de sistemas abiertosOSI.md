@@ -1,7 +1,7 @@
 ---
 up: [[3.5 Modelos de referencia]]
 ---
-## El modelo de referencia [[Protocolos de interconexión de sistemas abiertos|OSI]]
+# El Modelo de Referencia [[Protocolos de interconexión de Sistemas abiertos|OSI]]
 
 ```ad-important
 

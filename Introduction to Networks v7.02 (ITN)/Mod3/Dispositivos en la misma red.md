@@ -1,9 +1,10 @@
-## Dispositivos en la misma red
+# Dispositivos En La Misma Red
+
 En este ejemplo, tenemos un equipo cliente, PC1, que se comunica con un servidor FTP, en la misma red IP.
 
--   Dirección [[IP versión 4|IPv4]] de origen
+- Dirección [[IP versión 4|IPv4]] de origen
 	- La dirección [[IP versión 4|IPv4]] del dispositivo emisor, es decir, el equipo cliente PC1: 192.168.1.110.
--   Dirección [[IP versión 4|IPv4]] de destino
+- Dirección [[IP versión 4|IPv4]] de destino
 	- La dirección [[IP versión 4|IPv4]] del dispositivo receptor, el servidor FTP: 192.168.1.9.
 
 ```ad-seealso

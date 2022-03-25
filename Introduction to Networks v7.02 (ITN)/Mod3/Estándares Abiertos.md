@@ -2,8 +2,10 @@
 up: [[3.4 Organizaciones estándares]]
 ---
 # Estándares Abiertos
-Muchos fabricantes de componentes de red implica la creación de  normas por parte de organizaciones internacionales de normalización.
-- Los estándares abiertos fomentan la interoperabilidad[^1], la competencia e innovación.
+
+Muchos fabricantes de componentes de red implica la creación de normas por parte de organizaciones internacionales de normalización.
+
+- Los estándares abiertos fomentan la interoperabilidad,[^1] la competencia e innovación.
 - Previenen monopolios
 - Evitan desventajas entre la competencia
 
@@ -18,6 +20,7 @@ Existen muchas opciones distintas disponibles de diversos proveedores, y todas e
 - 802.11 ([[Wireless Local Area Network|WLAN]])
 
 ```
+
 ```ad-example
 title: Interacción entre tecnologías
 collapse: closed
@@ -27,7 +30,8 @@ Permiten que un cliente con el sistema operativo OS X de Apple descargue una pá
 Esto se debe a que **ambos** sistemas operativos implementan los **protocolos** de estándar abierto, como los de la suite [[TCP/IP]].
 ```
 
-### Organizaciones de normalización
+## Organizaciones de normalización
+
 ```ad-info
 - **Generalmente** son organizaciones **sin fines de lucro y neutrales** en lo que respecta a proveedores, que se establecen para desarrollar y promover el concepto de estándares abiertos.
 
@@ -38,7 +42,8 @@ Esto se debe a que **ambos** sistemas operativos implementan los **protocolos** 
 - Pueden eleccionar un protocolo exclusivo como base para el estándar
 	-  Si se utiliza un protocolo exclusivo, suele participar el proveedor que creó el protocolo.
 ```
-#### Ejemplos
+
+### Ejemplos
 - [[Institute of Electrical and Electronics Engineers|IEEE]]
 - [[Internet Engineering Task Force|IETF]]
 - [[Internet Assigned Numbers Authority|IANA]]

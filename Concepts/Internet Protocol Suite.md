@@ -16,7 +16,6 @@ title: Importante
 
 ```
 
-
 ## Protocolos
 
 ![[Capa de aplicación#Capa de aplicación]]

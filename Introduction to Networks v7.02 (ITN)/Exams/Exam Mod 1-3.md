@@ -335,6 +335,7 @@ title: ¿Qué método permite que un equipo reaccione en consecuencia cuando sol
 - [ ] Control del flujo
 
 ```
+
 ```ad-question
 title: ¿Cuál de las siguientes es una característica de los mensajes multidifusión?
 

@@ -1,5 +1,7 @@
-## Unidades de datos de protocolo
+# Unidades de Datos de Protocolo
+
 Mientras los datos de la aplicación bajan a la pila del protocolo y se transmiten por los medios de la red, se agrega diversa información de protocolos en cada nivel. Esto comúnmente se conoce como proceso de encapsulamiento.
+
 ```ad-note
 title: Datagramas
 Aunque la [[Protocol Data Unit|PDU]] [[User Datagram Protocol|UDP]] se denomina datagrama, los paquetes [[Internet Protocol|IP]] a veces también se conocen como datagramas IP.
@@ -15,6 +17,7 @@ Aunque la [[Protocol Data Unit|PDU]] [[User Datagram Protocol|UDP]] se denomina 
 - Paquete: PDU de la capa de red
 - Trama: PDU de la capa de enlace de datos
 - Bits: PDU de capa física que se utiliza cuando se transmiten datos físicamente por el medio
+
 ```ad-note
 title: Si el encabezado de transporte es...
 

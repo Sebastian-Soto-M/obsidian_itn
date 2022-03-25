@@ -2,7 +2,7 @@
 up: [[Internet Protocol Suite]]
 tags: concept/itn
 ---
-### Capa de acceso a la red
+# Capa de Acceso a La Red
 
 | Tipo                          | Protocolos                           |
 | ----------------------------- | ------------------------------------ |

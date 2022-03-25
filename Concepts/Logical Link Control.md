@@ -4,6 +4,7 @@ tags: concept/itn
 ---
 
 # Logical Link Control
+
 ```ad-note
 title: Características
 

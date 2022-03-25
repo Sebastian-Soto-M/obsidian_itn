@@ -1,4 +1,4 @@
-# Introduction to Networks v7.02 (ITN) Index 
+# Introduction to Networks v7.02 (ITN) Index
 
 ![[README]]
 

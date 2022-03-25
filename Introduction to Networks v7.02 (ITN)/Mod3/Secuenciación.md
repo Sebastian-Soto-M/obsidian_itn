@@ -1,4 +1,5 @@
-## Secuenciación
+# Secuenciación
+
 La **desventaja** de utilizar **segmentación y multiplexión** para transmitir mensajes a través de la red **es el nivel de complejidad** que se agrega al proceso.
 
 ```ad-example

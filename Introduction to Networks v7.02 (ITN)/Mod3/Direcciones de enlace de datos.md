@@ -1,4 +1,5 @@
-## Direcciones de enlace de datos
+# Direcciones de Enlace de Datos
+
 La dirección física de la [[Capa de enlace de datos]], o capa 2, tiene una función distinta.
 
 Su **propósito** es **enviar la [[Trama de Red|Trama]]** de enlace de datos desde una interfaz de red hasta otra interfaz de red en la misma red.
@@ -15,9 +16,9 @@ El **router elimina la información de la capa 2** a medida que una [[Network In
 
 El paquete [[Internet Protocol|IP]] se encapsula en una trama de enlace de datos que contiene información de enlace de datos, como la siguiente:
 
--   Dirección de enlace de datos de origen
+- Dirección de enlace de datos de origen
 	- La dirección física de la [[Network Interface Card|NIC]] del dispositivo que envía la trama de enlace de datos.
--   Dirección de enlace de datos de destino
+- Dirección de enlace de datos de destino
 	- La dirección física de la [[Network Interface Card|NIC]] que recibe la trama de enlace de datos. Esta dirección es el router del salto siguiente o el dispositivo de destino final.
 
 ```ad-hint

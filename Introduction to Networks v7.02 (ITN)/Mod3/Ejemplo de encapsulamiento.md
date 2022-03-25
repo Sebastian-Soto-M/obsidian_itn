@@ -1,4 +1,4 @@
-## Ejemplo de encapsulamiento
+# Ejemplo de Encapsulamiento
 
 Cuando se envían mensajes en una red, el proceso de **encapsulamiento** opera desde las **capas superiores hacia las capas inferiores**.
 

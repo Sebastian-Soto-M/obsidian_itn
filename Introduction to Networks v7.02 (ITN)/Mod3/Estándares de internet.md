@@ -1,7 +1,8 @@
 ---
 up: [[3.4 Organizaciones estándares]]
 ---
-# Estándares de internet
+# Estándares de Internet
+
 Varias organizaciones crean y promueven estándares para el protocolo [[Internet Protocol Suite|TCP/IP]]
 
 ![[Pasted image 20220304195932.png]]
@@ -12,6 +13,7 @@ Varias organizaciones crean y promueven estándares para el protocolo [[Internet
 - [[Internet Research Task Force|IRTFF]]
 
 ---
+
 Organizaciones involucradas en el desarrollo y soporte de [[Internet Protocol Suite|TCP/IP]]:
 
 ![[Pasted image 20220304212532.png]]

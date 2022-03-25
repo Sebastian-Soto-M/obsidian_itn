@@ -1,7 +1,7 @@
 ---
 up: [[3.5 Modelos de referencia]]
 ---
-## Modelo de protocolo [[Internet Protocol Suite|TCP/IP]]
+# Modelo de Protocolo [[Internet Protocol Suite|TCP/IP]]
 
 - El modelo de protocolo TCP/IP para comunicaciones de internetwork se creó a principios de la década de los setenta y se conoce con el nombre de modelo de Internet.
 - Este tipo de modelo coincide con precisión con la estructura de una suite de protocolos determinada.

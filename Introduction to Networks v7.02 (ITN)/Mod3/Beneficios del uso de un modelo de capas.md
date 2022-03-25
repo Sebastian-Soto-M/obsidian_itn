@@ -1,7 +1,7 @@
 ---
 up: [[3.5 Modelos de referencia]]
 ---
-## Beneficios del uso de un modelo de capas
+# Beneficios Del Uso de un Modelo de Capas
 
 ```ad-seealso
 collapse: closed

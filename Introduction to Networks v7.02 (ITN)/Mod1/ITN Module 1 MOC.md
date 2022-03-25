@@ -1,4 +1,4 @@
-## ITN Module 1 MOC
+# ITN Module 1 MOC
 - [[1.1 Las redes afectan nuestras vidas]]
 - [[1.2 Componentes de la red]]
 - [[1.3 Topologías y representaciones de red]]

@@ -1,6 +1,6 @@
 # ITN Knowledge
-Contiene información del curso [Introduction to Networks v7.02](https://www.netacad.com)
 
+Contiene información del curso [Introduction to Networks v7.02](https://www.netacad.com)
 
 # Plugins Recomendados
 1. Admonition
