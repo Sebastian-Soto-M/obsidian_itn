@@ -1,0 +1,7 @@
+## Rol ARP en Comunicaciones Remotas
+
+Cuando la dirección [[IP versión 4|IPv4]] de destino no está en la misma red que la dirección [[IP versión 4|IPv4]] de origen, el dispositivo de origen debe enviar la trama al gateway predeterminado. Esta es la interfaz del router local. Cuando un dispositivo de origen tiene un paquete con una dirección [[IP versión 4|IPv4]] de otra red, lo encapsula en una trama con la dirección [[Media Access Control|MAC]] de destino del router.
+
+La dirección [[IP versión 4|IPv4]] de la dirección del gateway predeterminado se almacena en la configuración [[IP versión 4|IPv4]] de los hosts. Cuando un host crea un paquete para un destino, compara la dirección [[IP versión 4|IPv4]] de destino con la propia para determinar si ambas están ubicadas en la misma red de capa 3. Si el host de destino no está en la misma red, el origen busca en la tabla ARP una entrada que contenga la dirección [[IP versión 4|IPv4]] del gateway predeterminado. Si no existe una entrada, utiliza el proceso ARP para determinar la dirección [[Media Access Control|MAC]] del gateway predeterminado.
+
+For a video explaining the process, see [this](https://contenthub.netacad.com/itn-dl/9.2.5) link.

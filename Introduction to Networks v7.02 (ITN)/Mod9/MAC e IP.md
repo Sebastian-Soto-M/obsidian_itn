@@ -56,7 +56,7 @@ A lo largo de cada enlace de una ruta, un paquete [[Internet Protocol|IP]] se en
 
 ¿Cómo se asocian las direcciones IP de los paquetes IP en un flujo de datos con las direcciones [[Media Access Control|MAC]] en cada enlace a lo largo de la ruta hacia el destino? Para los paquetes [[IP versión 4|IPv4]], esto se realiza a través de un proceso llamado Protocolo de resolución de direcciones ([[Address Resolution Protocol|ARP]]). Para los paquetes [[IP versión 6|IPv6]], el proceso es [[Protocolo de Descubrimiento de Vecinos versión 6|ICMPv6 ND]].
 
-## Packet Tracer: Identificación de direcciones MAC y direcciones IP
+## Packet Tracer: Identificación de Direcciones MAC y Direcciones IP
 
 - [[9.1.3-packet-tracer---identify-mac-and-ip-addresses_es-XL.pdf]]
 - [[9.1.3-packet-tracer---identify-mac-and-ip-addresses_es-XL.pka]]

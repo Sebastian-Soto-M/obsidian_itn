@@ -1,5 +1,6 @@
 ---
-tags: quiz/university
+up: [[Introduction to Networks v7.02 (ITN) Index]]
+tags: quiz/netacad
 ---
 
 # Exam Mod 4-7
