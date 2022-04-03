@@ -1,3 +1,6 @@
+---
+up: [[ITN Module 11 MOC]]
+---
 # Estructura de La dirección IPv4
 ## Porciones de red y de host
 ![[IP versión 4|IPv4]]
