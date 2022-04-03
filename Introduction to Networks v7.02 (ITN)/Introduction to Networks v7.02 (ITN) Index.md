@@ -1,6 +1,7 @@
+---
+up: [[Knowledge]]
+---
 # Introduction to Networks v7.02 (ITN) Index
-
-![[README]]
 
 # Módulos
 
@@ -18,7 +19,12 @@
 
 ![[ITN Module 9 MOC]]
 
+![[ITN Module 11 MOC]]
+
 # Evaluaciones
 
 - [[Exam Mod 1-3]]
 - [[Exam Mod 4-7]]
+
+---
+![[README]]
