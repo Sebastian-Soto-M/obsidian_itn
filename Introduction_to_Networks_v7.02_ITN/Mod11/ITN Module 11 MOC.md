@@ -15,4 +15,6 @@ up: [[Introduction to Networks v7.02 (ITN) Index]]
 
 ## Practice
 - [[11.1 Quiz]]
+- [[11.3 Quiz]]
+- [[11.4 Quiz]]
 - [[Práctica Del Módulo y Cuestionario]]
